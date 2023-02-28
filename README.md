@@ -1,3 +1,5 @@
+# Hi there, I'm [Valentina](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+engeneer+from+Russia+🇷🇺)](https://git.io/typing-svg)
 
 <div id="socials" align="center">
 <a href="https://vk.com/valentinaplatonova">
@@ -5,9 +7,7 @@
 <a href="https://t.me/v_platonova1">
 		<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=whit" alt="telegram"/>
 </div>
-	# Hi there, I'm [Valentina](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+engeneer+from+Russia+🇷🇺)](https://git.io/typing-svg)
-
+	
 
 ### About me
 - 🌱 I’m currently learning **Web3, GameDev**
