@@ -1,5 +1,6 @@
 # Hi there, I'm [Valentina](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+engeneer+from+Russia+🇷🇺)](https://git.io/typing-svg)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
