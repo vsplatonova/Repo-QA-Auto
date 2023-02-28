@@ -15,8 +15,10 @@
 - 📄 Know about my experiences [CV](cv-link)
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
-
+### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" title="java" width="50" height="50"/>&nbsp;
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" width="50" height="50"/>&nbsp;
+	
 
 
 В данном репозитории содержиться ряд практических работ, которые могут продемонстрировать мои навыки в сфере автоматизации тестирования.
