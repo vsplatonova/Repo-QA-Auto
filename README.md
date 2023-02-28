@@ -7,7 +7,12 @@
 <a href="https://t.me/v_platonova1">
 		<img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=whit" alt="telegram"/>
 </div>
-
+### About me
+- 🌱 I’m currently learning **Web3, GameDev**
+- 📝 I regularly write articles on [Medium](medium-link)
+- 📄 Know about my experiences [CV](cv-link)
+- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
+- 🌍 I speak English
 
 
 
