@@ -16,7 +16,7 @@
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="js" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" title="java" width="50" height="50"/>&nbsp;
 
 
 В данном репозитории содержиться ряд практических работ, которые могут продемонстрировать мои навыки в сфере автоматизации тестирования.
