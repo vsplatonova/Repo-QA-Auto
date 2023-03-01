@@ -14,13 +14,11 @@
 - 📝Могу влиять на качество продукта
 - 📄 Upgrading my skills
 - 📫 Reach me by [email](mailto:vs_platonova@vk.com)
-### Languages and tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" title="java" width="50" height="50"/>&nbsp;
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" title="selenium" width="50" height="50"/>&nbsp;
+### Language
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" title="java" width="60" height="60"/>&nbsp;
+	
 	
 
-
-Данный репозиторий явля , которые могут продемонстрировать мои навыки в сфере автоматизации тестирования.
 
 В папке automationTest вы можете ознакомиться с примерами автоматизации тестирования web приложения. В качесте примера был взят сайт petshop.ru. В процессе написания тестов использовала библиотеку selenuimWeb driver, allure и фреймворки junit. Так же отдельно офлормила примеры наиденых багов  на момент тестирования приложения. 
 
