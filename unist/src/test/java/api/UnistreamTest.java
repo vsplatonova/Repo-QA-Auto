@@ -1,14 +1,15 @@
 package api;
 import io.restassured.path.json.JsonPath;
-import io.restassured.response.Response;
 import model.Request;
+import model.ResponseToTransfer;
 import model.ResponseUni;
 import org.junit.jupiter.api.Assertions;
 import specification.Specifications;
 import org.junit.jupiter.api.Test;
 import java.util.List;
 import static io.restassured.RestAssured.*;
-
+import static org.hamcrest.MatcherAssert.assertThat;
+import static org.hamcrest.Matchers.equalTo;
 
 
 public class UnistreamTest extends Specifications {
@@ -28,16 +29,23 @@ public class UnistreamTest extends Specifications {
         requestBody.setCountryCode("ARM");
 
 
-        Response response = given()
+      ResponseToTransfer response = given()
                 .body(requestBody)
                 .when()
                 .post("https://slt-test.info.api.unistream.com/api/v1/transfer/calculate")
                 .then()
-                .statusCode(200)
-                .extract().response();
+                .extract()
+                .body()
+                .as(ResponseToTransfer.class);
 
-        Assertions.assertEquals(200, response.statusCode());
+      Double result=response.getFees().get(0).getAcceptedTotalFee();
+      String resultCurrency=response.getFees().get(0).getAcceptedCurrency();
 
+     Assertions.assertEquals(0.0, result);
+     assertThat(resultCurrency, equalTo("RUB"));
+
+     System.out.println(result);
+     System.out.println(resultCurrency);
     }
 
     @Test
